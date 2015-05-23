@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"car",
+				"carouselNav"
+			],
+			[
+				"carousel",
+				"carouselWrapper"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"menu",
+				"menuitem"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"feat",
+				"featuresToExtract"
+			],
+			[
+				"fea",
+				"_featuresToExtract"
+			],
+			[
+				"Ex",
+				"EXTRACTION_STARTED"
+			],
+			[
+				"buf",
+				"bufSize"
+			],
+			[
+				"buffer",
+				"bufferSize"
+			],
+			[
+				"powe",
+				"powerSpectrum"
+			],
+			[
+				"pow",
+				"powSpec"
+			],
+			[
+				"filter",
+				"filterBank"
+			],
+			[
+				"amp",
+				"ampSpectrum"
+			],
+			[
+				"ampS",
+				"ampSpectrum"
+			],
+			[
+				"sp",
+				"specific"
+			],
+			[
+				"cur",
+				"curFreq"
+			],
+			[
+				"po",
+				"powFreqs"
+			],
+			[
+				"fre",
+				"freqSum"
+			],
+			[
+				"cu",
+				"curFreq"
+			],
+			[
+				"nyq",
+				"nyqBin"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"spe",
+				"spectralRolloff"
+			],
+			[
+				"spec",
+				"spectralCentroid"
+			],
+			[
+				"sine",
+				"sineOsc"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"ex",
+				"extractionInterval"
+			],
+			[
+				"submit",
+				"submitFeatures"
+			],
+			[
+				"featu",
+				"featuresToExtract"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"is",
+				"isPowerOfTwo"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"co",
+				"coeffs"
+			],
+			[
+				"lo",
+				"loudness"
+			],
+			[
+				"time",
+				"timeData"
+			],
+			[
+				"bu",
+				"bufferSize"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"test",
+				"testProcessor"
+			],
+			[
+				"lowe",
+				"lowerPage"
+			],
+			[
+				"delta",
+				"deltaBot"
+			],
+			[
+				"low",
+				"lowerPage"
+			],
+			[
+				"view",
+				"viewportLeftEdge"
+			],
+			[
+				"read",
+				"readAheadKeyframeLeft"
+			],
+			[
+				"scroll",
+				"scrollLeft"
+			],
+			[
+				"keyf",
+				"keyframes"
+			],
+			[
+				"toC",
+				"ToCoda"
+			],
+			[
+				"segno",
+				"segnoIndex"
+			],
+			[
+				"previous",
+				"previousKeyframeBar"
+			],
+			[
+				"curre",
+				"currentSegnoIndex"
+			],
+			[
+				"origi",
+				"originalKeyframes"
+			],
+			[
+				"curr",
+				"currentSegnoIndex"
+			],
+			[
+				"currentS",
+				"currentSegnoIndex"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ori",
+				"originalKeyframes"
+			],
+			[
+				"dc",
+				"dcArray"
+			],
+			[
+				"ds",
+				"dsArray"
+			],
+			[
+				"orig",
+				"originalKeyframes"
+			],
+			[
+				"apply",
+				"applyRoadmap"
+			],
+			[
+				"isD",
+				"isDCAl"
+			],
+			[
+				"pick",
+				"pickupBar"
+			],
+			[
+				"cod",
+				"coda"
+			],
+			[
+				"fine",
+				"fine"
+			],
+			[
+				"isC",
+				"isCountIn"
+			],
+			[
+				"play",
+				"playbackSpeed"
+			],
+			[
+				"bpm",
+				"bpmToTime"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"beat",
+				"beatTime"
+			],
+			[
+				"count",
+				"countInDuration"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"att",
+				"attendee"
+			],
+			[
+				"ev",
+				"eventTime"
+			],
+			[
+				"event",
+				"eventTime"
+			],
+			[
+				"even",
+				"eventTime"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"profilePhoto"
+			],
+			[
+				"at",
+				"attendees-container"
+			],
+			[
+				"js",
+				"jsonp"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"chan",
+				"changingPitch"
+			],
+			[
+				"playback",
+				"playbackSpeed"
+			],
+			[
+				"audio",
+				"audioContext"
+			],
+			[
+				"au",
+				"audioContextStart"
+			],
+			[
+				"audioCo",
+				"audioContextStart"
+			],
+			[
+				"note",
+				"noteIndex"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pitch",
+				"pitchShifterBufferSize"
+			],
+			[
+				"grain",
+				"grainSize"
+			],
+			[
+				"windo",
+				"windowingNode"
+			],
+			[
+				"wind",
+				"windowingNode"
+			],
+			[
+				"grainBu",
+				"grainBufferData"
+			],
+			[
+				"sche",
+				"scheduleGrain"
+			],
+			[
+				"playba",
+				"playbackRate"
+			],
+			[
+				"createBuffe",
+				"createBufferSource"
+			],
+			[
+				"audo",
+				"audioContext"
+			],
+			[
+				"getC",
+				"getChannelData"
+			],
+			[
+				"inp",
+				"inputArrayR"
+			],
+			[
+				"outp",
+				"outputArrayR"
+			],
+			[
+				"pla",
+				"playbackRate"
+			],
+			[
+				"bufer",
+				"bufercekovSource"
+			],
+			[
+				"bufe",
+				"bufercekovSource"
+			],
+			[
+				"createBu",
+				"createBufferSource"
+			],
+			[
+				"input",
+				"inputBuffer"
+			],
+			[
+				"accom",
+				"accompSource"
+			],
+			[
+				"keyfra",
+				"keyframeCount"
+			],
+			[
+				"nex",
+				"nextTickTime"
+			],
+			[
+				"next",
+				"nextTickTime"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"keyframe",
+				"keyframeCount"
+			],
+			[
+				"add",
+				"addEventListener"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "//stuff for my implementation of a video carousel\n//only works with jquery, which I use all the time anyway\n$(\"#carouselWrapper\").hover(function(){\n	$(\".carouselNav\").fadeIn();\n}, function(){\n	$(\".carouselNav\").fadeOut();\n});\n\n$(\".carouselNav\").click(function(){\n	if ($(this).hasClass(\"right\")) {\n		if ($(\"#carouselWrapper\").scrollLeft() < $(\"#carousel\").width()-$(\"#carousel\").find('.carouselItem').first().width() ) {\n			$(\"#carouselWrapper\").animate({\n				scrollLeft: \"+=810\"\n			}, 500);\n		}\n	}\n	else {\n		if ($(\"#carouselWrapper\").scrollLeft() > $(\"#carousel\").find('.carouselItem').first().width() ) {\n			console.log(\"prd\");\n			$(\"#carouselWrapper\").animate({\n				scrollLeft: \"-=810\"\n			}, 500);\n		}\n\n	}\n});",
+			"file": "jf-utils-post.js",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 2524,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git branch",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jakub/Desktop/space-is-website",
+		"/Users/jakub/Desktop/space-is-website/img"
+	],
+	"file_history":
+	[
+		"/Users/jakub/Desktop/space-is-website/index.html",
+		"/Users/jakub/Desktop/space-is-website/jf-utils-pre.js",
+		"/Users/jakub/Desktop/space-is-website/jf-utils-post.js",
+		"/Users/jakub/Desktop/space-is-website/jf_utils.js",
+		"/Users/jakub/Dropbox/public_html/styles.css",
+		"/Users/jakub/Dropbox/KRWeb-final/player.js",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/screen.css",
+		"/Users/jakub/Documents/tm_lineFinder-toFix.cpp",
+		"/Users/jakub/Desktop/zhang-suen-test.csv",
+		"/Users/jakub/Desktop/UUIDTest.html",
+		"/Users/jakub/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/346B5F55-B1B1-48EF-99D3-0BDA62C40D20/UUIDTest 2.html",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/screen 2.css",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/screen_old.css",
+		"/Users/jakub/Desktop/screen_new.css",
+		"/Library/WebServer/Documents/meyda/lib/jsfft/complex_array.js",
+		"/Library/WebServer/Documents/meyda/lib/jsfft/fft.js",
+		"/Library/WebServer/Documents/meyda/index.html",
+		"/Library/WebServer/Documents/meyda/meyda.js",
+		"/Users/jakub/Dropbox/KRWeb-final/.gitignore",
+		"/Users/jakub/Desktop/.git/config",
+		"/Users/jakub/Desktop/phantom/phantom/Playback/TransportView.xib",
+		"/Library/WebServer/Documents/meyda/meyda.min.js",
+		"/Library/WebServer/Documents/meyda/readme.md",
+		"/Library/WebServer/Documents/meyda/features.md",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/book.css",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/screen_ftp.css",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/modal.css",
+		"/Users/jakub/Desktop/Maximilian/main.cpp",
+		"/Users/jakub/Desktop/temp/public_html/.gitignore",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/bc3373cba02fdc5f86d9a66656c0de2cd3a9743e.1413822728.css",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/screen_bak.css",
+		"/Users/jakub/Desktop/KR Web Store/screen.css",
+		"/Users/jakub/Desktop/krFiles/example3/Metadata.xml",
+		"/private/var/folders/9x/d98wb24s6012261t786_dxx40000gn/T/fz3temp-1/style.css",
+		"/Library/WebServer/Documents/meyda/styles.css",
+		"/Users/jakub/Desktop/kurtosis.csv",
+		"/Users/jakub/Desktop/Yaafe/src_python/yaafefeatures.py",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.magspec.csv",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.sF.csv",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.sR.csv",
+		"/Users/jakub/Desktop/SR_results.csv",
+		"/Users/jakub/Desktop/Yaafe/build/yaafe_extensions/yaafefeatures.py",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.loud.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/SpecificLoudness.cpp",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Sqr.cpp",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.mfcc.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/MelFilterBank.cpp",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Cepstrum.cpp",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.psp.csv",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.psh.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Normalize.cpp",
+		"/Library/WebServer/Documents/meyda/audio/speech.wav.magspec.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/SpecificLoudness.h",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Slope.cpp",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.sS.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Flatness.cpp",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/Rolloff.cpp",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/audio/ShapeStatistics.cpp",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.stats.csv",
+		"/Users/jakub/Desktop/Yaafe/src_cpp/yaafe-components/registration.h",
+		"/Users/jakub/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+		"/Library/WebServer/Documents/meyda/audio/noise.wav.zcr.csv",
+		"/Users/jakub/Desktop/createDevTools.sh",
+		"/Users/jakub/Dropbox/public_html/wall.js",
+		"/Users/jakub/Downloads/argtable2-13/README",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_python/yaafe.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/jakub/Desktop/test_141014/results_meyda.json",
+		"/Users/jakub/Downloads/jAudio/feature_definitions_141014.xml",
+		"/Users/jakub/Desktop/test_141014/results_jaudio.xml",
+		"/Users/jakub/Desktop/sine.txt",
+		"/Library/WebServer/Documents/meyda/tests/testAmpSpectrumSaw.txt",
+		"/Library/WebServer/Documents/meyda/tests/numbers.txt",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpecJaudioFull.txt",
+		"/Library/WebServer/Documents/meyda/tests/5.133E-4.csv",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpectrumCsv2.txt",
+		"/Users/jakub/Downloads/jAudio/feature_values_x.xml",
+		"/Users/jakub/Desktop/results_jaudio.xml",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpectrumCsv.txt",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpectrum.json",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpectrum.txt",
+		"/Library/WebServer/Documents/meyda/tests/test_ampSpectrum.csv",
+		"/Users/jakub/Dropbox/pickevent/test.html",
+		"/Library/WebServer/Documents/meyda/jquery-1.10.2.min.js",
+		"/Users/jakub/Dropbox/KRWeb-final/index.php",
+		"/Library/WebServer/Documents/meyda/tests/test081014_0_256_testmp3/results_meyda.json",
+		"/Library/WebServer/Documents/meyda/tests/test081014_0_256_testmp3/powspec.csv",
+		"/Library/WebServer/Documents/meyda/tests/test081014_0_256_testmp3/ampspec.csv",
+		"/Library/WebServer/Documents/meyda/tests/test081014_4_4096_testmp3/results_jaudio.xml",
+		"/Users/jakub/Downloads/jAudio/256.xml",
+		"/Library/WebServer/Documents/meyda/tests/test081014_3_2048_testmp3/results_jaudio.xml",
+		"/Library/WebServer/Documents/meyda/tests/test081014_2_1024_testmp3/results_jaudio.xml",
+		"/Library/WebServer/Documents/meyda/tests/test081014_1_512_testmp3/results_jaudio.xml",
+		"/Library/WebServer/Documents/meyda/tests/test081014_0_256_testmp3/results_jaudio.xml",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/AutoCorrelation.cpp",
+		"/Library/WebServer/Documents/meyda/tests/test081014_3_2048_testmp3/results_meyda.json",
+		"/Library/WebServer/Documents/meyda/tests/test081014_0_256_testmp3/buffer.txt",
+		"/Library/WebServer/Documents/meyda/tests/test081014_3_2048_testmp3/buffer.txt",
+		"/Library/WebServer/Documents/meyda/tests/test081014_2_1024_testmp3/buffer.txt",
+		"/Library/WebServer/Documents/meyda/tests/test081014_1_512_testmp3/buffer.txt",
+		"/Library/WebServer/Documents/meyda/tests/test081014_4_4096_testmp3/buffer.txt",
+		"/Library/WebServer/Documents/meyda/tests/test081014_2_1024_testmp3/results_meyda.json",
+		"/Library/WebServer/Documents/meyda/tests/test081014_1/results_meyda.json",
+		"/Library/WebServer/Documents/meyda/tests/test081014_1/buffer.json",
+		"/Library/WebServer/Documents/meyda/utilities/data.json",
+		"/Users/jakub/Downloads/jAudio/feature_values_1.xml",
+		"/Users/jakub/Desktop/jaudioTestResults.json",
+		"/Library/WebServer/Documents/meyda-paper/sig-alternate.tex",
+		"/Library/WebServer/Documents/meyda/data.json",
+		"/Library/WebServer/Documents/meyda/convertJsonBufferToWav.py",
+		"/Library/WebServer/Documents/meyda/buffer.json",
+		"/Library/WebServer/Documents/meyda/main.js",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/SpectralCrestFactorPerBand.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/OBSI.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_python/yaafefeatures.py",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/MelFilterBank.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/Cepstrum.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/Envelope.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/LoudnessSharpness.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/LoudnessSharpness.h",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/LoudnessSpread.cpp",
+		"/Library/WebServer/Documents/meyda/README.md",
+		"/Users/jakub/Downloads/yaafe-v0.64/README",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/SpecificLoudness.cpp",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/SpecificLoudness.h",
+		"/Users/jakub/Downloads/yaafe-v0.64/externals/eigen/Eigen/Dense",
+		"/Users/jakub/Downloads/yaafe-v0.64/externals/eigen/Eigen/Eigenvalues",
+		"/Users/jakub/Downloads/yaafe-v0.64/src_cpp/yaafe-components/audio/AutoCorrelation.h"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"400",
+			"<img src=\"img/photos/p01.jpg\" width=\"400px\">\n					",
+			"<img src=\"img/photos/p01.jpg\" width=\"400px\">",
+			"left",
+			"menuitem",
+			"ontent\">",
+			"Content\">",
+			"Content",
+			" hoverable",
+			"menuitem",
+			"pitchshi",
+			",",
+			"lasers",
+			"#wrapper",
+			"7",
+			"797",
+			"scroll-y",
+			"scroll-x",
+			"body {",
+			"33.33%",
+			"33.33",
+			"33.333",
+			"scroll-x",
+			"ribbon",
+			"body",
+			"backgr",
+			".scroll-x-wrapper {\n  overflow: hidden;\n  margin: 1px 0 0 0;\n  border-left: 1px solid #ccc;\n  border-right: 1px solid #ccc;\n}",
+			"/",
+			"mfcc",
+			"console.log",
+			"text-align",
+			"text",
+			"text-align",
+			"text",
+			"y-",
+			"file-info",
+			"y-",
+			"eran",
+			"scroll",
+			"console",
+			"    \"spectralKurtosis\": ",
+			"  },",
+			"  {",
+			" ",
+			"\": ",
+			",",
+			"    \"perceptualSpread\": ",
+			"  },",
+			"  {",
+			"loudness",
+			"    \"spectralSlope\": ",
+			"  },",
+			"  {",
+			"\n",
+			";",
+			"    \"spectralFlatness\": ",
+			"  },",
+			"  {",
+			",",
+			"    \"spectralRolloff\": ",
+			"rolloff",
+			"  {",
+			"  }",
+			"twoArrays",
+			"slop",
+			"spec",
+			"slope",
+			"powspec",
+			"magspec",
+			"centr",
+			"statistic",
+			"zcr",
+			"map",
+			"info",
+			"20.",
+			"2-0",
+			"10.",
+			"1-",
+			".",
+			"\"",
+			": ",
+			",",
+			"    ",
+			": ",
+			"\"",
+			"  ",
+			",",
+			": ",
+			"  ",
+			",",
+			"\"",
+			"sineOsc",
+			"  ",
+			": ",
+			",",
+			": ",
+			"\"",
+			": ",
+			",",
+			"\"",
+			"    ",
+			";",
+			",",
+			";",
+			",",
+			".",
+			",",
+			"<v>",
+			"</v>",
+			"<v>",
+			"			",
+			",",
+			" ",
+			": ",
+			",",
+			"\"",
+			"    ",
+			" ",
+			",",
+			" ",
+			"  ",
+			"\"",
+			";",
+			":",
+			" ",
+			",",
+			"\"",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"[currin",
+			"pickupBar",
+			"updateFrame"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "jf-utils-post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1046,
+								1046
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 779.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "space-is-website.sublime-project",
+	"replace":
+	{
+		"height": 104.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"meyda/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Library/WebServer/Documents/fiala.uk/fialauk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
