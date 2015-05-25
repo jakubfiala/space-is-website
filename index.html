@@ -64,15 +64,15 @@
 			<div id="reviewsContent" class="contentPage">
 				<h1>Press</h1>
 				<p class="pLink">
-					<i>&ldquo;Effortlessly in synch with each other, they bring both a reassuring and energising force to this work. Their strength lies in how they manage to direct whatever might happen in the space and for every night it will be different.&rdquo;</i> &nbsp;
+					<a href="http://londondance.com/articles/reviews/the-space-is-in-between-us/" target="_blank"><i>&ldquo;Effortlessly in synch with each other, they bring both a reassuring and energising force to this work. Their strength lies in how they manage to direct whatever might happen in the space and for every night it will be different.&rdquo;</i> &nbsp;</a>
 					</p><p class="rightName">&mdash; Jo Leask, London Dance</p>
 				<p class="pLink">
-					<i>&ldquo;The two artists in this pleasing performance succeed in giving &lsquo;space exploration&rsquo; – a favourite topic of newspapers – a whole new meaning. I found it charming and thought provoking.&rdquo;</i> &nbsp;
+					<a href="https://balletbichon.wordpress.com/2014/11/27/exploring-space/" target="_blank"><i>&ldquo;The two artists in this pleasing performance succeed in giving &lsquo;space exploration&rsquo; – a favourite topic of newspapers – a whole new meaning. I found it charming and thought provoking.&rdquo;</i> &nbsp;</a>
 					</p><p class="rightName">&mdash; Claire Cohen, Ballet Bichon blog
 				</p>
 				<p class="pLink">
-					<i>&ldquo;The work’s title lightly evokes memory, obliquely, at a glance, as if trying to recall, via senses, something that was significant. Thus the expansive validity of some small things. Thus the richness of poetic resonance, with its expansive web-like structure of associations triggered by sense-forms.&rdquo;</i> &nbsp;
-					</p><p class="rightName">&mdash; Lizzy Le Quesne
+					<a href="http://choreograph.net/raw/a-dog-may-or-may-not-have-barked" target="_blank"><i>&ldquo;The work’s title lightly evokes memory, obliquely, at a glance, as if trying to recall, via senses, something that was significant. Thus the expansive validity of some small things. Thus the richness of poetic resonance, with its expansive web-like structure of associations triggered by sense-forms.&rdquo;</i> &nbsp;</a>
+					</p><p class="rightName">&mdash; Lizzy Le Quesne, Choreograph.net
 				</p>
 
 				<h1>Audience Testimonials</h1>
@@ -117,7 +117,7 @@
 						<p>
 							Born in Sheffield, England. Works as a dance and movement artist, educator and Certified Movement Analyst (CMA), in London, Belgium and Edinburgh since 2004. Her experiences and practice include performing, choreographing, movement directing, teaching and writing. Artists she has on&ndash;going performance collaborations with include choreographer Mark Carberry, visual artists Moi Tran, and Mette Sterre, language artist Jane Frances Dunlop and photographer Mira Loew, and video artists Yuri Pirondi and Ines von Bonhorst of Magma Collective. Notable previous collaborations include polymath Ben Gwalchmai and visual artist Ben Varney. Alexandra has performed for various choreographers including Carolyn Deby/sirenscrossing, Athina Vahla and Manifold Motion. Her work as a movement director for theatre and opera includes Theatre Delicatessen, Hobo, MolinoGroup, UNTitled Theatre and Barefoot Opera. Alexandra has an ongoing commitment to and interest in collaborative practice.
 						</p>
-						<p><a href="http://alexandrabaybutt.co.uk">alexandrabaybutt.co.uk</a></p>
+						<p><a href="http://alexandrabaybutt.co.uk" target="_blank">alexandrabaybutt.co.uk</a></p>
 					</div>
 					<div id="davidSubContent" class="subContentPage">
 						<img src="img/d.jpg" width="100%">
@@ -127,7 +127,7 @@
 						<p>
 							David frequently works with dance/physical theatre as a composer, musician and collaborator. He worked with dancers/choreographers including Gary Clarke, Zsuzsa Rozsavolgyi (ex-Rosas), Dragana Alfirevic (NomadDanceAcademy) and Imre Vass (ex-UltimaVez) and performed these pieces in 10 European countries.
 						</p>
-						<p><a href="http://davidsomlo.com/">davidsomlo.com</a></p>
+						<p><a href="http://davidsomlo.com/" target="_blank">davidsomlo.com</a></p>
 					</div>
 					<div id="perfSubContent" class="subContentPage">
 						<img src="img/p.jpg" width="100%">
@@ -147,24 +147,35 @@
 				<b>thespaceisinbetweenus {at} gmail {dot} com</b>
 				</p>
 				<p>
-				<a href="https://www.facebook.com/thespaceisinbetweenus">facebook</a>
+				<a href="https://www.facebook.com/thespaceisinbetweenus" target="_blank">facebook</a>
 				</p>
 				<p>
-				<a href="https://vimeo.com/thespaceisinbetweenus">vimeo</a>
+				<a href="https://vimeo.com/thespaceisinbetweenus" target="_blank">vimeo</a>
 				</p>
 				<p>
-				<a href="https://twitter.com/thespaceis">twitter</a>
+				<a href="https://twitter.com/thespaceis" target="_blank">twitter</a>
 				</p>
 			</div>
 		</div>
 	</div>
 
 
-	<footer>built with &lt;3 by <a href="http://fiala.uk/">fiala</a></footer>
+	<footer>built with &lt;3 by <a href="http://fiala.uk/" target="_blank">fiala</a></footer>
 
 
 	<script type="text/javascript">
 	window.currentPreview = 1;
+
+	if (window.localStorage.currentSection) {
+		console.log("has lS");
+		$(".contentPage").each(function(){
+			if ($(this).is(':visible')) {
+				$(this).fadeOut(100, function(){
+					$("#" + window.localStorage.currentSection + "Content").fadeIn();
+				});
+			}
+		});
+	}
 
 		$(".menuitem").click(function(){
 			var self = this;
@@ -172,6 +183,7 @@
 				if ($(this).is(':visible')) {
 					$(this).fadeOut(100, function(){
 						$("#" + $(self).attr("id") + "Content").fadeIn();
+						window.localStorage.currentSection = $(self).attr("id");
 					});
 				}
 			});
