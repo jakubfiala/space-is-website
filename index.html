@@ -164,28 +164,21 @@
 	<script type="text/javascript">
 	window.currentPreview = 1;
 
-	if (window.localStorage.currentSection) {
-		console.log("has lS");
-		$(".contentPage").each(function(){
-			if ($(this).is(':visible')) {
-				$(this).fadeOut(100, function(){
-					$("#" + window.localStorage.currentSection + "Content").fadeIn();
-				});
-			}
-		});
-	}
-
 		$(".menuitem").click(function(){
 			var self = this;
 			$(".contentPage").each(function(){
 				if ($(this).is(':visible')) {
 					$(this).fadeOut(100, function(){
 						$("#" + $(self).attr("id") + "Content").fadeIn();
-						window.localStorage.currentSection = $(self).attr("id");
+						window.location.hash = $(self).attr("id");
 					});
 				}
 			});
 		});
+
+		if (window.location.hash) {
+			$(".menuitem[id='" + window.location.hash.substring(1) + "']").trigger("click");
+		}
 
 		$(".submenuitem").click(function(){
 			var self = this;
